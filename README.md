@@ -54,11 +54,16 @@ int main()
 ```
 
 ## OUTPUT
-![image](https://github.com/Gokhulraj2005/Linux-IPC-Shared-memory/assets/138849253/9f920f64-fe46-4345-977d-421eaffe84c3)
+![image](https://github.com/Bhagath118/Linux-IPC-Shared-memory/assets/147473779/76256943-fbd4-4ed2-8e81-d62caab77bb8)
+![image](https://github.com/Bhagath118/Linux-IPC-Shared-memory/assets/147473779/665712d2-5f32-48fd-9d36-d2cbcbe85b62)
+![image](https://github.com/Bhagath118/Linux-IPC-Shared-memory/assets/147473779/8ce760f5-b9d8-4f29-a342-896c6c5d1b87)
 
 
-# RESULT:
+
+## RESULT:
 The program is executed successfully.
+
+
 
 
 
